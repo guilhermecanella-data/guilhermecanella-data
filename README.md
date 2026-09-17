@@ -3,10 +3,9 @@
 Sou formado em Ciência de Dados pela FIAP e estou desenvolvendo minha carreira na área de tecnologia, com foco em Análise de Dados, Business Intelligence e Ciência de Dados.
 
 Tenho conhecimentos em Python, SQL e Power BI, que venho aprimorando por meio de estudos contínuos e projetos práticos
-Ao longo da minha formação, desenvolvi projetos envolvendo ETL, análise de dados, indicadores de negócio, segmentação de clientes e modelos preditivos. Atualmente, continuo expandindo meu portfólio e aprofundando minhas habilidades técnicas, com o objetivo de evoluir profissionalmente e, futuramente, avançar para áreas como Machine Learning e Inteligência Artificial.
+Ao longo da minha formação, desenvolvi projetos envolvendo ETL, análise de dados, indicadores de negócio, segmentação de clientes e modelos preditivos. 
 
-Sou curioso, dedicado e orientado à resolução de problemas. Acredito no potencial dos dados e da tecnologia para gerar valor e contribuir para decisões mais estratégicas.
-Estou em busca da minha primeira oportunidade como Analista de Dados, com foco em transformar dados brutos em decisões de negócio.
+Sou curioso, dedicado e orientado à resolução de problemas. Estou em busca da minha primeira oportunidade como Analista de Dados, com foco em transformar dados brutos em decisões de negócio.
 
 📫 Contato
 <p align="left"> <a href="mailto:guilhermecanella78@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/guilherme-canella-44171530b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>  
